@@ -1,0 +1,19 @@
+{
+  "name": "discordbot_docker",
+  "version": "1.0.0",
+  "description": "discord bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DominikMisztal/DiscordBot_Docker.git"
+  },
+  "author": "Dominik Misztal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DominikMisztal/DiscordBot_Docker/issues"
+  },
+  "homepage": "https://github.com/DominikMisztal/DiscordBot_Docker#readme"
+}
