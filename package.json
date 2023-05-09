@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DominikMisztal/DiscordBot_Docker/issues"
   },
-  "homepage": "https://github.com/DominikMisztal/DiscordBot_Docker#readme"
+  "homepage": "https://github.com/DominikMisztal/DiscordBot_Docker#readme",
+  "dependencies": {
+    "discord.js": "^14.11.0"
+  }
 }
