@@ -1,0 +1,10 @@
+Games:
+    minesweeper game
+    guessing game (tips who it is, new tip after 5 failed answers)
+    quiz
+    tick tack toe
+GIF api
+Excel api
+admin tools
+
+
